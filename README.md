@@ -1,2 +1,3 @@
 # Rschool
-11.04.2022 Feature_selection
+18.04.2022 Random_Forest
+Task 5, Grid Search and Random Search не выполнено. 
