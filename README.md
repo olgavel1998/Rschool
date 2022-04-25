@@ -1,4 +1,4 @@
 # Rschool
-18.04.2022 Random_Forest
+25.04.2022  Clustering and Dimensionality Reduction
 
-Task 5, Grid Search and Random Search не выполнено. 
+Task 8,  Clustering and Dimensionality Reduction
